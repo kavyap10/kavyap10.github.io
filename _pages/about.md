@@ -12,7 +12,7 @@ I am a Master's Student at the [University of Washington](https://www.washington
 <br> <br>
 # Education
 -----
-<img align="left" height="100" width="100" src="../images/UW_Logo2.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/umd.jpg" style="padding-right:15px">
 
 **Master of Science (MS) in Information Systems, [University of Maryland](https://www.umd.edu/)**
 #### August 2019 - December 2020 | Maryland, USA
