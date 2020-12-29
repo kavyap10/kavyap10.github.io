@@ -19,7 +19,7 @@ I am a Master's Student at the [University of Washington](https://www.washington
 
 -----
 I am currently pursuing my Graduate Degree in Information Management from the University of Washington with a focus in Data Science and Business Intelligence. <br> <br>
-<strong>CGPA: </strong> 3.82/4.0 <br>
+<strong>CGPA: </strong> 3.78/4.0 <br>
 <strong>Relevant coursework:</strong> Data Modelling, Big Data and Artificial Intelligence, Database Management Systems, Data Processing - Python, Data Mining in R, Business Process Analysis, Project Management, Management Information Systems, Google Analytics <br>
 
 -----
