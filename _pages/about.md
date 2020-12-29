@@ -14,7 +14,7 @@ I am a Master's Student at the [University of Washington](https://www.washington
 -----
 <img align="left" height="100" width="100" src="../images/umd.jpg" style="padding-right:15px">
 
-**Master of Science (MS) in Information Systems, [University of Maryland](https://www.umd.edu/)**
+**MS in Information Systems, [University of Maryland](https://www.umd.edu/)**
 #### August 2019 - December 2020 | Maryland, USA
 
 -----
@@ -25,7 +25,7 @@ I am currently pursuing my Graduate Degree in Information Management from the Un
 -----
 <img align="left" height="100" width="100" src="../images/somaiya.png" style="padding-right:15px">
 
-**Bachelor of Technology (B.Tech) in Information Technology, [University of Mumbai](https://mu.ac.in/)**
+**B.Tech in Information Technology, [University of Mumbai](https://mu.ac.in/)**
 #### August 2015 - June 2019 | Mumbai, India
 
 -----
