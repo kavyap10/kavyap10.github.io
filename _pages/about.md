@@ -35,9 +35,9 @@ I completed my Undergraduate Degree in Information Technology from the Universit
 <br>
 # Experience
 -----
-<img align="left" height="100" width="100" src="../images/Terraclear.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/umd.jpg" style="padding-right:15px">
 
-**Software Engineering Intern, [TerraClear Inc.](https://www.terraclear.com/)** 
+**Data Analyst Intern, [University of Maryland](https://www.umd.edu/)** 
 #### June 2020 - Present | Seattle, USA
 ----- 
 *	Revamped the data processing pipeline for raw multispectral/RGB drone images to create the COCO dataset for the Convolutional Neural Networks in Linux
