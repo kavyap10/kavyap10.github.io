@@ -56,10 +56,10 @@ I completed my Undergraduate Degree in Information Technology from the Universit
 *	Decreased the bounce rate by 52%, increased the session time by 69% by running a 27-day Google Ads Campaign
 
 -----
-<img align="left" height="100" width="100" src="../images/Greymeter.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/barc.png" style="padding-right:15px">
 
 **Software Development Intern, [B.A.R.C](http://www.barc.gov.in/)** 
-#### December 2015 - January 2016 | Mumbai, India
+#### June 2018 - September 2018 | Mumbai, India
 -----
 *	Conceptualized and created an application having functionalities to filter emails based on sender, subject, and date
 *	Implemented multi-factor authentication to alleviate security vulnerabilities and insulate system against remote attacks
