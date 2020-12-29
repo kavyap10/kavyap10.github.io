@@ -38,7 +38,7 @@ I completed my Undergraduate Degree in Information Technology from the Universit
 <img align="left" height="100" width="100" src="../images/umd.jpg" style="padding-right:15px">
 
 **Data Analyst Intern, [University of Maryland](https://www.umd.edu/)** 
-#### May 2020 - December 2020 | Seattle, USA
+#### May 2020 - December 2020 | College Park, USA
 ----- 
 *	Evaluated business needs and developed an automated platform to manage the funding requests of the University
 *	Optimized operational processes of the University by 56%+ and reduced 48+ man-hours per week
@@ -50,7 +50,7 @@ I completed my Undergraduate Degree in Information Technology from the Universit
 <img align="left" height="100" width="100" src="../images/poshare.png" style="padding-right:15px">
 
 **Business Analyst, [Poshare](https://poshare.com/)**
-#### June 2018 - August 2018 | Mumbai, India
+#### January 2020 - May 2020 | College Park, USA
 -----
 *	Collaborated with cross-functional teams to conceptualize and revamp the firm’s online marketing strategy
 *	Decreased the bounce rate by 52%, increased the session time by 69% by running a 27-day Google Ads Campaign
@@ -58,20 +58,12 @@ I completed my Undergraduate Degree in Information Technology from the Universit
 -----
 <img align="left" height="100" width="100" src="../images/Greymeter.png" style="padding-right:15px">
 
-**Digital Analyst Intern, [Greymeter](https://aayush1909.github.io/)** 
+**Software Development Intern, [B.A.R.C](http://www.barc.gov.in/)** 
 #### December 2015 - January 2016 | Mumbai, India
 -----
-*	Re-engineered area-specific social media campaigns by analyzing student performance and collecting it in Excel
-*	Used Marketing Analytics, Google Analytics to increase the likes on social media platforms by 58% in a month
-
------
-<img align="left" height="100" width="100" src="../images/3DcreatR.jpg" style="padding-right:15px">
-
-**Marketing Research Analyst Intern, [3DcreatR](http://www.3dcreatr.com/)** 
-#### July 2015 - August 2015 | Mumbai, India
------
-*	Researched the various pedagogical trends to understand the willingness of schools to add 3D printing to their curriculum 
-*	Re-designed the database of the top schools willing to participate in this program and improved the data quality by 17%
+*	Conceptualized and created an application having functionalities to filter emails based on sender, subject, and date
+*	Implemented multi-factor authentication to alleviate security vulnerabilities and insulate system against remote attacks
+*	Awarded with the “Best Intern” title for technical proficiency, critical thinking, and receptiveness among 100+ interns
 
 <br>
 
