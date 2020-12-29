@@ -38,18 +38,18 @@ I completed my Undergraduate Degree in Information Technology from the Universit
 <img align="left" height="100" width="100" src="../images/umd.jpg" style="padding-right:15px">
 
 **Data Analyst Intern, [University of Maryland](https://www.umd.edu/)** 
-#### June 2020 - Present | Seattle, USA
+#### May 2020 - December 2020 | Seattle, USA
 ----- 
-*	Revamped the data processing pipeline for raw multispectral/RGB drone images to create the COCO dataset for the Convolutional Neural Networks in Linux
-*	Spearheaded research on image processing techniques for boundary & object detection from stitched orthomosaic images by leveraging OpenCV in Python
-*	Optimized operational processes of the Computer Vision & AI team by 60%+ and reduced 18+ man-hours per week
-*	Conducted code reviews and collaborated with cross-functional stakeholders to revamp code review procedures
-*	Designing & creating a relational PostgreSQL database to preserve JSON based drone data generated from the pilot portal
+*	Evaluated business needs and developed an automated platform to manage the funding requests of the University
+*	Optimized operational processes of the University by 56%+ and reduced 48+ man-hours per week
+*	Spearheaded research on collection and processing of raw unstructured water desalination data
+*	Designed & created a normalized relational MySQL database to surface new insights to act on business opportunities
+*	Reengineered the existing architecture of multiple databases by enhancing performance of CRUD operations by 27% 
 
 -----
 <img align="left" height="100" width="100" src="../images/Puratech.png" style="padding-right:15px">
 
-**Data Analyst Intern, [Puratech Solutions](https://www.puratech.co.in/)**
+**Business Analyst, [Poshare](https://poshare.com/)**
 #### June 2018 - August 2018 | Mumbai, India
 -----
 *	Refactored the consumer demographic data collection process and increased operational efficiencies by 12%
