@@ -47,14 +47,13 @@ I completed my Undergraduate Degree in Information Technology from the Universit
 *	Reengineered the existing architecture of multiple databases by enhancing performance of CRUD operations by 27% 
 
 -----
-<img align="left" height="100" width="100" src="../images/Puratech.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/poshare.png" style="padding-right:15px">
 
 **Business Analyst, [Poshare](https://poshare.com/)**
 #### June 2018 - August 2018 | Mumbai, India
 -----
-*	Refactored the consumer demographic data collection process and increased operational efficiencies by 12%
-*	Collected & analyzed web scraped data in R to derive insights on customer behavior, informing strategies that increased the customer retention rate by 9%
-*	Conceptualized and implemented A/B test plans to validate customer hypotheses and understand customer behavior patterns
+*	Collaborated with cross-functional teams to conceptualize and revamp the firm’s online marketing strategy
+*	Decreased the bounce rate by 52%, increased the session time by 69% by running a 27-day Google Ads Campaign
 
 -----
 <img align="left" height="100" width="100" src="../images/Greymeter.png" style="padding-right:15px">
