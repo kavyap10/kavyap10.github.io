@@ -20,11 +20,7 @@ I am a Master's Student at the [University of Washington](https://www.washington
 -----
 I am currently pursuing my Graduate Degree in Information Management from the University of Washington with a focus in Data Science and Business Intelligence. <br> <br>
 <strong>CGPA: </strong> 3.82/4.0 <br>
-<strong>Relevant coursework:</strong>
-* <strong>Fall '20: </strong>Statistics, Advanced Databases <br>
-* <strong>Spring '20: </strong>Scaling and Applications in Data Science, Business Intelligence Systems, Research and Analysis for Information Management Professionals <br>
-* <strong>Winter '20: </strong>Machine Learning and Econometrics, Relational Database Management Systems <br>
-* <strong>Fall '19: </strong>Foundations of Data Science  <br>
+<strong>Relevant coursework:</strong> Data Modelling, Big Data and Artificial Intelligence, Database Management Systems, Data Processing - Python, Data Mining in R, Business Process Analysis, Project Management, Management Information Systems, Google Analytics <br>
 
 -----
 <img align="left" height="100" width="100" src="../images/somaiya.png" style="padding-right:15px">
