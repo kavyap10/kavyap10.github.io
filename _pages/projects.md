@@ -20,7 +20,7 @@ author_profile: true
 -----
 <img align="left" height="100" width="100" src="../images/grocery_store.jpg" style="padding-right:15px">
 
-**Data Scientist - Sentiment Analysis and Prediction **
+**Data Scientist - Sentiment Analysis and Prediction**
 #### September 2020 - November 2020 | Smith School, United States 
 
 -----
