@@ -61,7 +61,9 @@ author_profile: true
 -----
 *	Developed an application that provides real-time “Smart Lighting Solution” for public places with an accuracy of 89%
 *	Implemented the non-rigid registration algorithm for motion tracking and the Haar-cascade classifier for face detection 
-* Secured 1st runner-up position at Prakalpa, an annual state-level technical symposium held at the University of Mumbai<br>
+* Secured 1st runner-up position at Prakalpa, an annual state-level technical symposium held at the University of Mumbai <br>
+
+
 -----
 
  
