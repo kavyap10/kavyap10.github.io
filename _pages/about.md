@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's Student at the [University of Washington](https://www.washington.edu/) majoring in Data Science. Currently, I am working at [TerraClear Inc.](https://www.terraclear.com/) as a Software Engineering Intern with the Computer Vision and Artificial Intelligence team. I have a Bachelor in Technology (B.Tech) degree in Computer Science from the University of Mumbai - [K.J Somaiya College of Engineering](https://kjsce.somaiya.edu/en), India. Owing to my prior coursework, academic projects and industry experiences, I now have over 3 years of experience in Software Development, Machine Learning and Analytics. I bring to the table a blend of technical, aptitude and problem-solving skills.
+I recently graduated with a Master's degree in Information Systems with a specialization in Data Science and Analytics from the University of Maryland - [Robert H. Smith School of Business](https://www.rhsmith.umd.edu/). My past professional experiences and projects have equipped me with immense knowledge and expertise in the field of Data Analytics, Machine Learning, Business Intelligence, and Software Development. I also believe my extra-curricular and co-curricular activities throughout my undergraduate studies have helped me develop my soft skills. I am currently seeking new opportunities that require a perfect blend of the skills I possess.
 <br> <br>
 # Education
 -----
