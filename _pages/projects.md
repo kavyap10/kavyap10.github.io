@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 -----
-<img align="left" height="100" width="100" src="../images/malware_detection.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/movie_reviews.png" style="padding-right:15px">
 
 **Data Analyst - Movie Reviews Classification**
 #### October 2020 - December 2020 | Seattle, United States
