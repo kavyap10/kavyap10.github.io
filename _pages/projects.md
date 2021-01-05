@@ -31,15 +31,13 @@ author_profile: true
 -----
 <img align="left" height="100" width="100" src="../images/airbnb.png" style="padding-right:15px">
 
-**Data Analyst - High Return Recommendation for Airbnb Investments **
+**Data Analyst - High Return Recommendation for Airbnb Investments**
 #### February 2020 - May 2020 | Smith School, United States
 
 -----
 *	Analyzed data and created PowerBI dashboards to recommend property-based investment decisions 
 *	Performed a comparative study of ElasticNet Regression, Decision Trees and Random Forest with a 94.7% winning accuracy
-*	Bagged the 2nd runner-up position for the best machine learning model in the Datathon at the University of Maryland
-
-<br>
+*	Bagged the 2nd runner-up position for the best machine learning model in the Datathon at the University of Maryland<br>
 
 -----
 <img align="left" height="100" width="100" src="../images/umd.png" style="padding-right:15px">
