@@ -5,7 +5,7 @@ excerpt: "Extra Curriculars"
 author_profile: true
 ---
 -----
-<img align="left" height="100" width="100" src="../images/ted.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/ted.jpg" style="padding-right:15px">
 
 **Sponsorship Head, TEDxSomaiyaVidyavihar**
 #### June 2018 - April 2019 | Mumbai, India
