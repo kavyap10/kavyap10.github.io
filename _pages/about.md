@@ -49,10 +49,11 @@ I completed my Undergraduate Degree in Information Technology from the Universit
 -----
 <img align="left" height="100" width="100" src="../images/poshare.png" style="padding-right:15px">
 
-**Business Analyst, [Poshare](https://poshare.com/)**
+**Business Analyst Contract, [Poshare](https://poshare.com/)**
 #### January 2020 - May 2020 | College Park, USA
 -----
-*	Collaborated with cross-functional teams to conceptualize and revamp the firm’s online marketing strategy
+*	Collaborated with cross-functional teams to re-design and launch the firm’s online marketing strategy
+*	Orchestrated A/B test plans to validate customer hypotheses and understand customer behavior patterns
 *	Decreased the bounce rate by 52%, increased the session time by 69% by running a 27-day Google Ads Campaign
 
 -----
