@@ -18,9 +18,9 @@ author_profile: true
 
 
 -----
-<img align="left" height="100" width="100" src="../images/grocery_store.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/sentiment_analysis.png" style="padding-right:15px">
 
-**Data Scientist - Sentiment Analysis and Prediction**
+**Data Scientist - Twitter Feed Sentiment Analysis and Prediction**
 #### September 2020 - November 2020 | Smith School, United States 
 
 -----
@@ -29,9 +29,9 @@ author_profile: true
 
 
 -----
-<img align="left" height="100" width="100" src="../images/sales.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/airbnb.png" style="padding-right:15px">
 
-**Data Analyst - Airbnb Data Analysis**
+**Data Analyst - High Return Recommendation for Airbnb Investments **
 #### February 2020 - May 2020 | Smith School, United States
 
 -----
@@ -42,7 +42,7 @@ author_profile: true
 <br>
 
 -----
-<img align="left" height="100" width="100" src="../images/Rotten.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/umd.png" style="padding-right:15px">
 
 **Database Engineer - Optimus Solutions**
 #### September 2019 - December 2019 | Smith School, United States
@@ -53,7 +53,7 @@ author_profile: true
 
 
 -----
-<img align="left" height="100" width="100" src="../images/UW_Logo2.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/smart_light.png" style="padding-right:15px">
 
 **Software Developer - Smart Light Switching System**
 #### August 2018 - May 2019 | Mumbai, India
