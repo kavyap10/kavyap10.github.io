@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 -----
-**[Fall 2020]Graduate Teaching Assistant - Introduction to Data Science Techniques**
+**[Fall 2020] Graduate Teaching Assistant - Introduction to Data Science Techniques**
 
 -----
 *	Worked with [Prof. Abdirisak Mohamed](https://ischool.umd.edu/about/directory/abdirisak-mohamed) at the University of Maryland - [College of Information Studies](https://ischool.umd.edu/) 
