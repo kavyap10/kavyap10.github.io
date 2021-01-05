@@ -12,7 +12,7 @@ I recently graduated with a Master's degree in Information Systems with a specia
 <br> <br>
 # Education
 -----
-<img align="left" height="100" width="100" src="../images/umd.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/umd.png" style="padding-right:15px">
 
 **MS in Information Systems, [University of Maryland](https://www.umd.edu/)**
 #### August 2019 - December 2020 | Maryland, USA
@@ -35,7 +35,7 @@ I completed my Undergraduate Degree in Information Technology from the Universit
 <br>
 # Experience
 -----
-<img align="left" height="100" width="100" src="../images/umd.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/umd.png" style="padding-right:15px">
 
 **Data Analyst Intern, [University of Maryland](https://www.umd.edu/)** 
 #### May 2020 - December 2020 | College Park, USA
