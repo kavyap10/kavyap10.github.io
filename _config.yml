@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Kavya Purushothaman"
 title_separator          : "-"
-name                     : &name "Kavya Purushothaman"
+name                     : &name "Kavya"
 description              : &description "Graduate Student at the University of Maryland"
 url                      : https://kavyap10.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
